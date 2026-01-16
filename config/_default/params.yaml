@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Gratitude is the attitude. 珍惜已有的一切"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "内容沉淀与博客展示平台 | 分享出行攻略、健康食谱、旅行感受、心态调整 | WINOTD运动发起人 | 未来AI产品与课程推广平台 | Content platform for travel guides, healthy recipes, life reflections, and WINOTD movement"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
