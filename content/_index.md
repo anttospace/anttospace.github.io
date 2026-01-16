@@ -41,7 +41,7 @@ sections:
     id: winotd
     content:
       title: '🚀 WINOTD运动'
-      subtitle: 'What I\'m Not Doing Today'
+      subtitle: "What I'm Not Doing Today"
       text: |-
         WINOTD是一个关于坚持与改变的运动。每一天，我们都在选择不做什么，从而为真正重要的事情腾出空间。
         
