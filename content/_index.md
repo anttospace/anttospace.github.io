@@ -40,14 +40,14 @@ sections:
   - block: markdown
     id: winotd
     content:
-      title: '🚀 WINOTD运动'
+      title: '🚀 WinOfTheDday(WINOTD)运动'
       subtitle: "What I'm Not Doing Today"
       text: |-
-        WINOTD是一个关于坚持与改变的运动。每一天，我们都在选择不做什么，从而为真正重要的事情腾出空间。
+        WinOfTheDday(WINOTD)是一个关于坚持与改变的运动。每一天，我们都在选择不做什么，从而为真正重要的事情腾出空间。
         
         戒porn马拉松运动员，正在用每一天的坚持，重新定义自己。如果你也在寻找改变，欢迎加入我们！
         
-        WINOTD is a movement about persistence and change. Every day, we choose what not to do, making room for what truly matters.
+        WinOfTheDday(WINOTD) is a movement about persistence and change. Every day, we choose what not to do, making room for what truly matters.
     design:
       columns: '1'
   - block: collection
@@ -92,9 +92,9 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    id: news
+    id: News
     content:
-      title: 最新内容
+      title: 最新内容News
       subtitle: 'Latest Content'
       text: '最新发布的博客内容'
       # Page type to display. E.g. post, talk, publication...
